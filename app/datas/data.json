@@ -1,0 +1,35 @@
+{
+  "titre": ".Gallery",
+  "photos": [
+    {
+      "titre": "Titre 1 ",
+      "url": "http://placehold.it/350x400",
+      "description": "description"
+    },
+    {
+      "titre": "Titre 2",
+      "url": "http://placehold.it/350x400",
+      "description": "description"
+    },
+    {
+      "titre": "Titre 3",
+      "url": "http://placehold.it/350x400",
+      "description": "description"
+    },
+    {
+      "titre": "Titre 4",
+      "url": "http://placehold.it/350x400",
+      "description": "description"
+    },
+    {
+      "titre": "Titre 5",
+      "url": "http://placehold.it/350x400",
+      "description": "description"
+    },
+    {
+      "titre": "Titre 6",
+      "url": "http://placehold.it/350x400",
+      "description": "description"
+    }
+  ]
+}
