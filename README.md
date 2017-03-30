@@ -1,6 +1,6 @@
 # .Gallery 
 
-[demo](http://gallery-gal.surge.sh/)
+[demo](http://gal-gal.surge.sh/)
 
 
 
