@@ -4,7 +4,7 @@
 
 
 
-![](./img/gallery.png)  
+![](app/img/gallery.png)  
 
 OOP ES6 photo's gallery
 
