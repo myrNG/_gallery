@@ -17,3 +17,7 @@ npm install
 
 gulp serve
 ```
+## Todo's  
+* Firebase
+* Add/Edit/Delete photos
+* User Auth
